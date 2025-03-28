@@ -1,0 +1,6 @@
+pyautogui
+opencv-python
+ipython
+pillow
+numpy
+ipykernel
